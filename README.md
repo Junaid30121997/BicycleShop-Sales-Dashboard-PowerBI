@@ -41,11 +41,11 @@ To demonstrate data-driven storytelling by converting raw sales data into meanin
 
 
 ## Dashboard Walkthrough (Video Demo)
-
 Watch the full demo video here:
 LinkedIn Project Demo: (https://www.linkedin.com/posts/mohammadjunaidahmed_powerbi-dataanalytics-businessintelligence-activity-7389247860514381824-Tvih?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE_fpTEBSWR_GP54trfBxoxr18Gx0rkwFZE)]
 
-
+![Dashboard Overview](Dashboard_Overview.png)
+[Download or View Dashboard Demo](Dashboard_Demo.mp4)
 How to View the Dashboard
 
 1. Download the .pbix file from this repository https://github.com/Junaid30121997/BicycleShop-Sales-Dashboard-PowerBI/blob/main/Bicycle%20Shop%20Dasboard.pbix

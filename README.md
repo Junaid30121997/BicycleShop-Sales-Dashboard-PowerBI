@@ -49,7 +49,7 @@ LinkedIn Project Demo: (https://www.linkedin.com/posts/mohammadjunaidahmed_power
 
 How to View the Dashboard
 
-1. Download the .pbix file from this repository
+1. Download the .pbix file from this repository https://github.com/Junaid30121997/BicycleShop-Sales-Dashboard-PowerBI/blob/main/Bicycle%20Shop%20Dasboard.pbix
 2. Open it in Microsoft Power BI Desktop
 3. Use slicers and filters to explore insights interactively
 

@@ -38,10 +38,10 @@ The dashboard provides deep insights into the company’s performance using inte
 ## Objective
 
 To demonstrate data-driven storytelling by converting raw sales data into meaningful business intelligence that supports performance tracking and strategic decision-making.
-
+Dashboard Overview  
+![Dashboard Overview](Dashboard_Overview.png)
 
 ## Dashboard Walkthrough (Video Demo)
-![Dashboard Overview]([Dashboard_Overview.png](https://github.com/Junaid30121997/BicycleShop-Sales-Dashboard-PowerBI/blob/main/Screenshot%202025-10-27%20174030.png))
 Watch the full demo video here:
 LinkedIn Project Demo: (https://www.linkedin.com/posts/mohammadjunaidahmed_powerbi-dataanalytics-businessintelligence-activity-7389247860514381824-Tvih?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE_fpTEBSWR_GP54trfBxoxr18Gx0rkwFZE)]
 

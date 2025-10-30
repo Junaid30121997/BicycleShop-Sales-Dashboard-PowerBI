@@ -41,7 +41,7 @@ To demonstrate data-driven storytelling by converting raw sales data into meanin
 
 
 ## Dashboard Walkthrough (Video Demo)
-![Dashboard Overview](Dashboard_Overview.png)
+![Dashboard Overview]([Dashboard_Overview.png](https://github.com/Junaid30121997/BicycleShop-Sales-Dashboard-PowerBI/blob/main/Screenshot%202025-10-27%20174030.png))
 Watch the full demo video here:
 LinkedIn Project Demo: (https://www.linkedin.com/posts/mohammadjunaidahmed_powerbi-dataanalytics-businessintelligence-activity-7389247860514381824-Tvih?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE_fpTEBSWR_GP54trfBxoxr18Gx0rkwFZE)]
 

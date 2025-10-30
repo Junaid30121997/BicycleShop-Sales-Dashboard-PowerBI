@@ -39,7 +39,8 @@ The dashboard provides deep insights into the company’s performance using inte
 
 To demonstrate data-driven storytelling by converting raw sales data into meaningful business intelligence that supports performance tracking and strategic decision-making.
 Dashboard Overview  
-![Dashboard Overview](Dashboard_Overview.png)
+![Dashboard Overview](https://raw.githubusercontent.com/YourUsername/YourRepoName/main/Dashboard_Overview.png)
+
 
 ## Dashboard Walkthrough (Video Demo)
 Watch the full demo video here:

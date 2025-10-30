@@ -35,7 +35,6 @@ The dashboard provides deep insights into the company’s performance using inte
 - Excel or CSV (Data Source)
 - Data Visualization and Design Principles
 
-
 ## Objective
 
 To demonstrate data-driven storytelling by converting raw sales data into meaningful business intelligence that supports performance tracking and strategic decision-making.

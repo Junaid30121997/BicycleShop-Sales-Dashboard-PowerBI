@@ -40,7 +40,7 @@ The dashboard provides deep insights into the company’s performance using inte
 To demonstrate data-driven storytelling by converting raw sales data into meaningful business intelligence that supports performance tracking and strategic decision-making.
 
 
-                                                          Dashboard Overview  
+                                              Dashboard Overview  
 ![Dashboard Overview](https://github.com/Junaid30121997/BicycleShop-Sales-Dashboard-PowerBI/blob/main/Screenshot%202025-10-27%20174030.png)
 
 
